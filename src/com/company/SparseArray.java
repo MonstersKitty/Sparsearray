@@ -84,7 +84,7 @@ public class SparseArray {
                 }
             }
         }
-        //二维数组还原1
+        //二维数组还原12
         System.out.println ("-------------------二维数组还原---------------------");
         for ( int i = 0 ; i < oArray.length ; i++ ) {
             for ( int j = 0 ; j < oArray.length ; j++ ) {
